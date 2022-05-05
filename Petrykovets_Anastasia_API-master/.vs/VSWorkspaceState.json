@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NumberFactsApi",
+    "\\NumberFactsApi\\NumberFactsApi",
+    "\\NumberFactsApi\\NumberFactsApi\\Controllers"
+  ],
+  "SelectedNode": "\\NumberFactsApi\\NumberFactsApi\\Controllers\\NumberController.cs",
+  "PreviewInSolutionExplorer": false
+}
